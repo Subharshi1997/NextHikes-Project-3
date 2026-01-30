@@ -1,8 +1,6 @@
 # ======================================================
 # EXPLORATORY DATA ANALYSIS – REAL ESTATE PRICING
-# Fully Aligned with Project Guideline (Page 4 & 5)
-# Interactive | Clean | Submission Ready
-# ======================================================
+
 
 # =========================
 # IMPORT NECESSARY PACKAGES
@@ -245,3 +243,4 @@ btn.on_clicked(next_plot)
 # ======================================================
 plots[current_plot]()
 plt.show()
+
